@@ -1,0 +1,10 @@
+TargetPose target
+---
+bool success
+string message
+float32 final_distance_error
+float32 final_yaw_error
+---
+float32 distance_remaining
+float32 yaw_remaining
+string phase

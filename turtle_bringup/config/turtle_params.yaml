@@ -1,0 +1,10 @@
+go_to_pose_server:
+  ros__parameters:
+    position_tolerance: 0.05
+    yaw_tolerance: 0.03
+
+draw_square_server:
+  ros__parameters:
+    default_side_length: 3.0
+    start_x: 5.544445
+    start_y: 5.544445

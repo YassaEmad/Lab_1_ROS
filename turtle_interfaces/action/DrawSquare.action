@@ -1,0 +1,8 @@
+float32 side_length
+---
+bool success
+string message
+uint8 sides_completed
+---
+uint8 current_side
+string status
